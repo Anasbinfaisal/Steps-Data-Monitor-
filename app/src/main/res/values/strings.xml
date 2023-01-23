@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Footstep Power Generation</string>
+
+
+    <string-array name="sensors">
+        <item>none</item>
+        <item>Battery Voltage</item>
+        <item>Piezo Voltage</item>
+
+    </string-array>
+
+</resources>

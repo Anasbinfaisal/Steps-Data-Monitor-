@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611238300220",
+    "firebase_url": "https://iot-based-footstep-default-rtdb.firebaseio.com",
+    "project_id": "iot-based-footstep",
+    "storage_bucket": "iot-based-footstep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611238300220:android:6d40a5b851195e75745139",
+        "android_client_info": {
+          "package_name": "com.example.root.steps_data_moniter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611238300220-80do0hea2h540sq39gtj3geipl9cr3e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_IymQHIi8JKLLE2Q5Q-z7Woa4XTCOa0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611238300220-80do0hea2h540sq39gtj3geipl9cr3e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
